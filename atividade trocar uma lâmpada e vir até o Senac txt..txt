@@ -1,0 +1,2 @@
+Retirar a lâmpada queimada, descartar a mesma, pego uma lâmpanda nova, coloco a lâmpada nova no lugar da lâmpada queimada, testo para ver se a nova lâmpada liga, desligo a lâmpada.
+Saio de casa, vou até meu carro, ligo ele e dirijo até o Senac.
