@@ -19,7 +19,7 @@ let primeiroNumero = Number(prompt("Digite um numero!"))
 let segundoNumero = Number(prompt("Digite outro numero!"))
 
 soma = primeiroNumero + segundoNumero
-alert(soma)*/
+alert(soma)
 
 //Escrita de código
 
@@ -30,4 +30,5 @@ alert(idade)
 alert(idadeamigo)
 alert(`Sua idade é maior do que seu melhor amigo? ${soma}`)
 diferença = idade - idadeamigo
-alert(`diferença de idade ${diferença}`)
+alert(`diferença de idade ${diferença}`)*/
+
