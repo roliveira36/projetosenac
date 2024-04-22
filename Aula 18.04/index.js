@@ -12,10 +12,10 @@ let frase = prompt("Digite uma frase:")
 console.log(frase.toUpperCase())
 console.log(frase.replaceAll("o" , "i"))
 console.log(frase.length)
-//console.log(frase.replaceAll("o" , "i"))*/
+//console.log(frase.replaceAll("o" , "i"))
 
 //Exercício 3
 
 let racasdecachorro =["Vira lata", "Pastor alemão", "Golden", "Poodle", "Doberman", "Labrador "]
 let optionRaca = prompt("Digite um número de 0 a 4")
-alert(racasdecachorro[optionRaca])
+alert(racasdecachorro[optionRaca])*/
